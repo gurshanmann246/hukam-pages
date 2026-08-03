@@ -1,0 +1,7 @@
+title: Hukam
+description: The daily Hukamnama, on your Home Screen.
+baseurl: "/hukam-pages"
+theme: jekyll-theme-minimal
+markdown: kramdown
+exclude:
+  - README.md
