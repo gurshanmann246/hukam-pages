@@ -11,6 +11,6 @@ Every word of Gurbani in Hukam is free, and always will be.
 
 ## Support
 
-Questions, problems, or requests — email **gurshansingh246@gmail.com** and you will hear back from a person.
+Questions, problems, or requests — email **hukamappofficial@gmail.com** and you will hear back from a person.
 
 - [Privacy Policy](privacy/)

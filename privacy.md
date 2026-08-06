@@ -48,4 +48,4 @@ If this policy changes, the new version will appear at this address with a new e
 
 ## Contact
 
-**gurshansingh246@gmail.com**
+**hukamappofficial@gmail.com**
